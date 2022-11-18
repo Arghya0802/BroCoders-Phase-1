@@ -1,3 +1,5 @@
+//Link: https://leetcode.com/problems/isomorphic-strings/description/
+
 class Solution {
 public:
     bool isIsomorphic(string &s, string &t) 
